@@ -1,0 +1,125 @@
+<html lang="pt-BR"></html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Biblioteca digital</title>
+</head>
+
+<body>
+    <header>Biblioteca digital</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>Os melhores livros na minha opinião</h1>
+        
+        </div>
+
+        <div>
+            
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Romance</h2>
+        <div class="categoria-videos">
+
+            <h2>Ranking</h2>
+
+            <p>
+              1-  Em primeiro lugar nós temos a hipotese do amor de Ali Hazelwood. A história acompanha Olive. Ela é aluna do doutorado de biologia de Stanford e está em uma situação complicada em relação a sentimentos. Olive saiu algumas vezes com Jeremy. Mas percebeu que é sua melhor amiga, Anh, quem gosta dele. Para juntá-los, no entanto, ela precisa convencer Anh de que "superou" Jeremy. Ou seja, ela precisa ser convincente.
+
+              E escolhe tascar um beijão no professor mais odiado da universidade, Adam Carlsen, na frente da amiga. A situação se desenrola em um acordo de interesses entre Olive e Adam, que envolve um namoro de mentira. Para ele, esse namoro é bom para a visão que a universidade tem sobre sua estabilidade ali; para Olive, é um jeito de garantir que Anh e Jeremy vão ter uma chance.
+              
+              Mas, como acontece em todo experimento, tem algumas variáveis. E elas envolvem emoções fortes, conexões inesperadas e uma certeza inabalável para Olive: se ela se apaixonar, as coisas podem sair do controle.
+              Ela é uma cientista brilhante, e tem um projeto muito interessante e importante para o seu doutorado. Foi muito legal acompanhar uma estudante entusiasmada e amedrontada. Todos os receios, as hesitações, e os medos gritantes da Olive são bastante reais. E trabalhados de maneira sensível. Ali Hazelwood não subestima sua protagonista; Olive é brilhante, e a narrativa sabe disso. O mundo sabe disso. Só a auto estima sabotadora da Oli que não permite que ela verbalize isso em toda a sua força (ainda).
+
+              Já que faz parte da sua jornada, é gostoso de acompanhar. A gente entende sua fragilidade, seu medo de falar sobre as coisas que estuda há tanto tempo, porque sabemos o quanto isso é importante para ela. Vai além do estudo, porque se conecta com a sua história pessoal. E a ciência é essencial para a Olive como pessoa. É sua maneira de comunicar com o mundo.
+              
+              Quando tromba com o Adam e firma o acordo com ele, ela não esperava tantas reviravoltas. Até porque essa é a beleza do fake dating!
+              
+              A Hipótese do Amor surpreende por apresentar um namoro de mentirinha que envolvia duas pessoas bastante diferentes, mas tão parecidas ao mesmo tempo. Adam e Olive são como água e óleo, a princípio. Mas desafiam a natureza porque conseguem sim se misturar.
+                      
+            </p>
+
+                <img src="Imagens/ahipótesedoamor1.png" height="250" />
+
+            
+            <p>
+            2 - Em segundo lugar "A voz de Archer" de Mia Sheridan. É um romance envolvente que narra a história de Archer Hale, um homem misterioso que perdeu a voz devido a um trauma na infância, e Bree Prescott, uma jovem que se muda para uma pequena cidade em busca de paz após uma tragédia pessoal. O encontro dos dois muda suas vidas de maneira profunda, trazendo uma conexão única e transformadora.
+
+            Ao longo do livro, Bree ajuda Archer a superar suas barreiras emocionais e físicas, enquanto ele a ensina sobre a força do amor e da resiliência. Com temas como superação, aceitação e o poder da comunicação além das palavras, a narrativa emociona e cativa o leitor, tornando-se uma história inesquecível.
+            
+            *Recomendação:* Se você procura um romance tocante, com personagens profundos e uma história de amor cheia de cura e redenção, *"A Voz de Archer"* é uma excelente escolha. O livro combina emoção e uma mensagem poderosa sobre o valor da empatia e do respeito pelas diferenças.
+                
+                </p>
+                   <img src="Imagens/398290504_1832870190500612_3350654612192116985_n.jpg" height="250" />
+
+                <p>
+                   3 - Em terceiro lugar nos temos "É assim que acaba" da Colleen Hooover. Em É assim que acaba conhecemos Lily Bloom, uma jovem que decidiu abrir a própria floricultura em Boston. Na cidade, ela conhece Ryle, um médico bem-sucedido por quem ela se apaixona profundamente. Ele também se apaixona por ela, e os dois iniciam um relacionamento que prometia ser baseado em muito amor. De repente, no entanto, Lily passa a notar comportamentos diferentes em Ryle. O namoro passa, então, a ser turbulento e conturbado - sem que ela se dê conta disso. 
+
+                    O comportamento do namorado faz Lily relembrar sua infância, uma vez que a protagonista cresceu em um lar onde também assistiu à mãe passar por cenas de violência doméstica. Quem a ajudou a superar os momentos difíceis que viveu na infância/adolescência foi seu primeiro amor, um jovem chamado Atlas - que também passou por inúmeras dificuldades naquela época.
+                    
+                    Já em Boston e em relacionamento com Ryle, Lily acaba reencontrando Atlas, seu primeiro amor. Aos poucos, durante o livro, vamos conhecendo a Lily e Atlas do passado, e vendo como a história vivida pelos dois volta à tona para ajudar a protagonista em suas decisões no presente. 
+                    
+                    A história é um clássico Colleen: envolvente e apaixonante, com paixões arrebatadoras e de fácil leitura mesmo que envolva temas conturbados. Uma ótima recomendação para quem adora se envolver com o livro. 
+                </p>
+                    <img src="Imagens/RESENHA-E-ASSIM-QUE-ACABA2.png" height="250" />
+    
+
+
+            <p>
+                4 - E em quarto lugar "Teto para dois" de Beth O'Leary. o romance Teto para dois, uma história sobre Tiffy, que terminou seu relacionamento e precisa de uma nova casa para morar – urgentemente – . E também de Leon, um enfermeiro plantonista viciado em trabalho e (muito) antissocial, que precisa de dinheiro extra. 
+
+                Ao iniciar a leitura, o livro aparenta ser apenas mais um dos vários romances que já foram publicados, garota encontra garoto, eles se apaixonam, se separam e voltam a ficar juntos. O típico final felizes para sempre. Contudo, Teto para dois vai além. A obra inicia com Tiffy visitando um apartamento com seus melhores amigos Gerty e Mo. O lugar é inóspito, terrível para uma jovem que não ganha muito na editora de livros que trabalha. Mas ela não tem como pagar por algo melhor e precisa sair da casa que mora, já que pertence ao seu ex-namorado Justin – que já está em outro relacionamento. 
+                
+                Entretanto, Tiffany decide ir atrás de um anúncio, um tanto quanto inusitado, de aluguel em um apartamento aconchegante, em boa localização e pela bagatela de 350 libras por mês. A primeira vista é perfeito, se não fosse por um pequeno detalhe: apenas um quarto. A casa é de Leon, um enfermeiro de cuidados paliativos que trabalha todas as noites e passa os finais de semana na casa da namorada, Kay. Ele está desesperado para conseguir mais dinheiro, pois precisa pagar o advogado de seu irmão Richie – um personagem extremamente apaixonante – que foi preso por um crime que não cometeu. 
+                
+                O trato é, das 8h às 17h, o apartamento é de Leon, e das 18h às 8h, é de Tiffy. Isso inclui a cama, lado direito de um, lado esquerdo de outro. Mesmo que eles não respeitem 100% essa regra. O problema é que os dois nunca se viram, quem mediou o acordo de aluguel foi Kay, namorada um pouco ciumenta – spoiler: o leitor não vai gostar dela – de Leon. A comunicação dos protagonistas se dá por post-its colados pelo apartamento, o que dá um diferencial a esse livro. 
+                
+                A grande questão de Teto para dois é como os heróis lidam com suas vidas conturbadas e encontram conforto nos bilhetes trocados, e também pelos diversos bolos de Tiffy e sua colcha (horrorosa, segundo Leon) de retalhos. Tiffy vai, aos poucos, descobrindo que o relacionamento dela com Justin foi extremamente abusivo, é interessante acompanhar os flashbacks mentais dela, dando-se de conta que não viveu o relacionamento perfeito que o patife a fez acreditar. O homem é detestável, capaz de provocar ódio em todos que leem, sendo um indivíduo asqueroso fantasiado de galã de comédia romântica. 
+                
+                Já Leon precisa lidar com a situação triste de Richie, algo que quebra o coração do leitor ao longo do livro, e com sua namorada ciumenta e incompreensível, a Kay. É notável desde o princípio que não há mais um relacionamento entre eles, é comodismo, principalmente de Leon. Acompanhar essa descoberta com Leon é uma lição a ser aprendida, abrir os olhos para sair de situações ruins, mas que apresentam certo conforto de se estar nela, deixar a praticidade e ir atrás de algo a mais. Como, por exemplo, a busca pelo Johnny White correto, algo bem divertido que permeia a história. 
+                
+                Apesar de parecer apenas mais um romance clichê, Teto para dois é além do esperado. A história é envolvente, os personagens bem construídos e com muitas camadas, assim como identificáveis. O leitor consegue se reconhecer no casal, cada um com sua singularidade e que se encaixam perfeitamente. Tiffy e Leon ficam juntos, sim, como esperado no típico felizes para sempre. Porém, eles aprendem a superar as situações difíceis que se encontravam no início da obra, mostrando para seus leitores que é possível sair do comodismo e tentar, porque nada é tão estranho quanto o cara estranho do apartamento 5 ou tão assustador quando a Sra. Roberta Raposa e sua família de raposas. Tiffy e Leon superaram, já o leitor de Teto para dois talvez não consiga o fazer tão rápido.
+            </p>
+
+                <img src="Imagens/IMG_8526-1024x1024.jpg" height="250" />
+
+            
+              <h1>Dark Romances</h1>
+
+              <p>
+                Em primeiro lugar toda a saga de "Devils Night" da Penelope Douglas. Estes são romances que te farão odiar e amar com a mesma intensidade.Os volumes apresentam as histórias de cada personagem e suas respectivas tramas de amor e ódio.Sendo assim, cada livro é independente, mesmo que sejam completamente ligados. E é recomendada a leitura em ordem, pois, caso contrário, você poderá tomar muitos spoilers. Um grupo de badboys — Kai, Damon, Will e Michael —, filhos de famílias ricas foram os reis do Ensino Médio, e metiam medo em qualquer um. Suas atitudes trouxeram consequências e uma caminhada longa em meio ao sentimento de vingança misturada com paixão
+                
+                <title - Corrupt
+
+                  <p>  Corrupt é o primeiro na ordem dos livros de Devil ‘s Night. O volume apresenta a insana história entre Erika e Michael, que nutrem uma obsessão incomum um pelo outro. Penelope Douglas realmente tem um talento incrível para prender os leitores em romances absolutamente inaceitáveis.
+
+Rika sempre esteve presente na vida de Michael, apesar do contato entre eles sempre ter sido bem superficial. Ele é irmão do seu ex-namorado, que agora está fora de jogo. A protagonista sempre teve uma queda por ele, além de um pavor intenso que a controla sempre que ele se aproxima.
+
+Por outro lado, o mal-elemento também sempre sentiu uma estranha atração pela garota, a quem sempre tratou com desprezo. Contudo, agora, ao invés de negar a existência de Rika, Michael a torna o seu objetivo. E ele não parece ter a melhor das intenções.
+
+No presente da narrativa, Rika está em uma mudança brusca. Ela está se transferindo de faculdade rumo a uma nova cidade, muito pelo desejo de deixar certas amarras para trás. Entretanto, não há como fugir de certos detalhes de seu passado.
+
+Três anos atrás, Michael e seus três amigos, se reuniram mais uma vez para a “Noite do Diabo”, que é um momento psicótico e ritualístico criado por eles mesmos. Nessa noite, eles se programam para sair pela cidade fazendo exatamente o que quiserem, sem se preocupar com as consequências, já que são de famílias ricas e nada pode acontecer com eles. Ou pelo menos eles achavam isso.
+
+Naquela noite, alguns deles foram presos. E se você pensa que isso pode ter servido para eles se regenerarem… Não. Eles apenas têm um forte desejo de vingança por aquela que foi responsável pelo que aconteceu. Michael e seus “amigos” esperaram pacientemente pelo momento certo. E agora é o melhor momento, a melhor chance, pois seu alvo está vulnerável, e fácil.
+
+            </p>
+
+                <img src="Imagens/3d781632dee7ff949b338899c6a2a323.jpg" height="250" />
+            </a>
+            
+                <img src="jpg" />
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
